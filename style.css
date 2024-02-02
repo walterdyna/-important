@@ -1,0 +1,13 @@
+/* Qual a Cor que o CSS vai usar no seu H1 */
+
+h1 {
+    color: aqua !important;
+}
+
+h1 {
+    color: red;
+    color: blue;
+}
+
+/* important serve para dar prioridade ao estilo, independe da ordem do css */
+
